@@ -1,0 +1,5 @@
+application:
+  config:
+    info:
+      message: "Hello world - dev"
+
